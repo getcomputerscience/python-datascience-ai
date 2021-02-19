@@ -1,0 +1,2 @@
+https://numpy.org/devdocs/user/quickstart.html
+https://docs.scipy.org/doc/scipy/reference/
